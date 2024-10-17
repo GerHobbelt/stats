@@ -15,7 +15,7 @@ The compile-time features are enabled using the ``constexpr`` specifier. The exa
 
     #include "stats.hpp"
 
-    int main()
+    int main(void)
     {
         
         constexpr double dens_1  = stats::dlaplace(1.0,1.0,2.0); // answer = 0.25

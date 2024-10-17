@@ -23,7 +23,7 @@
 
 #include "../stats_tests.hpp"
 
-int main()
+int main(void)
 {
 #ifdef STATS_TEST_MATRIX_FEATURES
     int K = 3;

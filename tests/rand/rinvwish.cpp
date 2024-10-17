@@ -20,7 +20,7 @@
 
 #include "../stats_tests.hpp"
 
-int main()
+int main(void)
 {
     print_begin("rinvwish");
 

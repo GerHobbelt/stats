@@ -22,7 +22,7 @@
 #include <iomanip>
 #include "stats.hpp"
 
-int main()
+int main(void)
 {
     double err_tol = 1E-05;
 
